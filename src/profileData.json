@@ -3,10 +3,10 @@
 	"landing": {
 		"firstName": "Hein Htet",
 		"lastName": "Aung",
-		"phoneNumber": "+959772700777",
+		"phoneNumber": "+36206157800",
 		"bio": "I'm a web developer.",
-    "email": "heinhtetaung@uy.edu.mm",
-		"linkedin": "https://www.linkedin.com/in/hein-htet-11717a1ba/",
+    	"email": "hainhtataung10@gmail.com",
+		"linkedin": "https://www.linkedin.com/in/hein-htet-aung-0a0319256/",
 		"github": "https://github.com/hainhtat"
 	},
 	"experience": [
@@ -29,6 +29,12 @@
 			"university": "University Of Yangon",
 			"degree": "Bachelor of computer science",
 			"fromDate": "December 2017",
+			"toDate": "June 2021"
+		},
+		{
+			"university": "University Of Pecs",
+			"degree": "Bachelor of computer science",
+			"fromDate": "September 2022",
 			"toDate": "Present"
 		}
 	],
@@ -43,6 +49,12 @@
 		},
 		{
 			"name": "Php"
+		},
+		{
+			"name": "Laravel"
+		},
+		{
+			"name": "React"
 		},
 		{
 			"name": "Wordpress"
