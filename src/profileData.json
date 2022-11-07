@@ -18,7 +18,7 @@
 				"toDate": "Dec 2018"
 		},
 		{
-			"position": "Web Developer Intern",
+			"position": "Web Designer Internship",
 			"organization": "Digital Laboratory",
 			"aboutWork": "Responsible for developing landing pages",
 			"fromDate": "Oct 2019",
@@ -49,12 +49,6 @@
 		},
 		{
 			"name": "Php"
-		},
-		{
-			"name": "Laravel"
-		},
-		{
-			"name": "React"
 		},
 		{
 			"name": "Wordpress"
